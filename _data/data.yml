@@ -3,26 +3,26 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
+    position: right # position of the sidebar: left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in the main section instead of in the sidebar
 
     # Profile information
     name: Mohammad Hojjat Shamami
     tagline: Senior Software Engineer | Artificial Intelligence Researcher
-    avatar: https://avatars.githubusercontent.com/u/94707917?v=4
+    avatar: https://avatars.githubusercontent.com/u/94707917
 
     # Sidebar links
     email: mohammad.shamami21@gmail.com
     academic_email: mohammad.shamami21@stu.usc.ac.ir
     phone: (+98) 902 487 9391
     timezone: Iran/Tehran Timezone
-    linkedin: https://www.linkedin.com/in/mohammad-hojjat-shamami/
-    github: https://github.com/Mo-HSH
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    linkedin: mohammad-hojjat-shamami/
+    github: Mo-HSH/
+    twitter:
+    stack-overflow: # Number/Username
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: # Number-Username
 
     languages:
       title: Languages
