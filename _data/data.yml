@@ -66,6 +66,7 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+
 education:
     title: Education
     info:
@@ -90,7 +91,7 @@ experiences:
             - Developing high-performance applications using Node.js, Ruby on Rails, and Vue.js.
             - Writing testable, reusable, and efficient code, following good programming practices.
       - role: Chief Technical Officer
-        time: Nov 2016 - March 2024
+        time: Nov 2016 - present
         company: Tagmond, Tehran, Iran
         details: |
             - Working as a Chief Technology Officer and programmer and security expert.
@@ -191,25 +192,27 @@ oss:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro:
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: (Submitted) Real-time facial emotion recognition in smartphones using EfficientNetV2 and quantization-aware training
+        link:
+        authors: Omid Ghadami, Saeed Shakuri, Mohammad Hojjat, and Alireza Rezvanian
+        conference: Neural Computing and Applications, Springer
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: (Submitted) Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN
+        link:
+        authors: Mohammad Hojjat, Mohammad Javad Shayegan, and Omid Ghadami
+        conference: 10th International Conference on Web Research (ICWR), IEEE
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: (To be Submitted) Enhancing Low-Dose CT Image Quality using EfficientNetV2 and ESRGAN
+        link:
+        authors: Mohammad Hojjat, Mohammad Javad Shayegan
+        conference:
+
+      - title: (In preparation) Real-Time Voice Recognition and Action Execution with Raspberry Pi and TensorFlow Lite
+        link:
+        authors: Mohammad Hojjat, Vahid Ansari
+        conference:
 
 skills:
     title: Skills &amp; Proficiency
@@ -234,4 +237,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    This page is maintained by Mohammad Hojjat Shamami

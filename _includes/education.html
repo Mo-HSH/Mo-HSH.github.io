@@ -9,23 +9,23 @@
     {{ education.title }}
   </h2>
 
-  {% for experience in education.info %}
+  {% for educate in education.info %}
   <div class="item">
 
     <div class="meta">
 
       <div class="upper-row">
-        <h3 class="job-title">{{ education.degree }}</h3>
-        <div class="time">{{ education.time }}</div>
+        <h3 class="job-title">{{ educate.degree }}</h3>
+        <div class="time">{{ educate.time }}</div>
       </div><!--//upper-row-->
 
-      <div class="company">{{ education.university }}</div>
+      <div class="company">{{ educate.university }}</div>
 
     </div><!--//meta-->
 
-    {% if education.details %}
+    {% if educate.details %}
     <div class="details">
-      {{ education.details | markdownify }}
+      {{ educate.details | markdownify }}
     </div><!--//details-->
     {% endif %}
 
