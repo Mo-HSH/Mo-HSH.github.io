@@ -8,50 +8,53 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Mohammad Hojjat Shamami
+    tagline: Senior Software Engineer | Artificial Intelligence Researcher
+    avatar: https://avatars.githubusercontent.com/u/94707917?v=4
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
+    email: mohammad.shamami21@gmail.com
+    academic_email: mohammad.shamami21@stu.usc.ac.ir
+    phone: (+98) 902 487 9391
+    timezone: Iran/Tehran Timezone
+    linkedin: https://www.linkedin.com/in/mohammad-hojjat-shamami/
+    github: https://github.com/Mo-HSH
     twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Persian
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: French
+          level: Elementary proficiency
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Computer Vision
           link:
 
-        - item: Snowboarding
+        - item: Generative models
           link:
 
-        - item: Cooking
+        - item: Reinforcement Learning
+          link:
+
+        - item: Data analysis
+          link:
+
+        - item: Optimization
+          link:
+
+        - item: Programming Languages
           link:
 
 career-profile:
