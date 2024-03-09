@@ -2,7 +2,6 @@
 <div class="sidebar-wrapper">
 
   <div class="profile-container">
-
     {% if sidebar.avatar %}
     <img class="avatar" src="{{ sidebar.avatar }}" alt="profile picture" />
     {% endif %}
@@ -14,11 +13,11 @@
     {% if sidebar.tagline %}
     <h3 class="tagline">{{ sidebar.tagline }}</h3>
     {% endif %}
-
-  </div><!--//profile-container-->
+  </div>
 
   {% include contact.html %}
 
-  {% include language.html %}
   {% include interests.html %}
-</div><!--//sidebar-wrapper-->
+
+  {% include language.html %}
+</div>

@@ -93,45 +93,34 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
+    title: Work Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior Software Developer
+        time: Oct 2021 - present
+        company: DivNotes, Ontario, Canada
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Working as a Full-Stack developer for the ContactMonkey Company, a client of DivNotes.
+            - Developing high-performance applications using Node.js, Ruby on Rails, and Vue.js.
+            - Writing testable, reusable, and efficient code, following good programming practices.
+      - role: Chief Technical Officer
+        time: Nov 2016 - March 2024
+        company: Tagmond, Tehran, Iran
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Working as a Chief Technology Officer and programmer and security expert.
+            - Mohammad was responsible for secure code writing, development, testing, troubleshooting, and collaboration with business teams.
+            - Also managed code reviews, utilized Ruby on Rails, and oversaw a large client database.
+      - role: Senior Software Developer
+        time: July 2019 - Feb 2020
+        company: Ibissoft, Stockholm, Sweden
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Mohammad upgraded an old application, increased test coverage from 30% to 80%.
+            - Resolved security concerns such as SQL injection, XSS vulnerability, file access, CSRF, dynamic rendering, and XSS.
+      - role: Software Developer
+        time: Dec 2018 - Jun 2019
+        company: Takhfifan, Tehran, Iran
+        details: |
+            - Mohammad successfully migrated a project from Magento to Rails and improved the overall design and server configuration using Docker.
+            - He also performed database administration tasks such as performance monitoring, integrity maintenance, replication implementation, time-series utilization, and user permission management.
 
 certifications:
       title: Certifications
@@ -202,23 +191,16 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Award & Honors
+    intro:
     contributions:
-      - title: Tempo
+      - title:
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Acquired the Certificate of the Elementary Course of Participating in ACM Regional Competition and the Certificate of Web Design."
 
-      - title: Atom
+      - title:
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Won coding competition for problem solving using Python programming language."
 
 publications:
     title: Publications
