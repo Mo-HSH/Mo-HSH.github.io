@@ -69,28 +69,15 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: M.Sc. in Software Engineering
+        university: University of Science and Culture, Tehran, Iran
+        time: 2019 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Thesis title: Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN.
+      - degree: B.Sc. in Software Engineering
+        university: Islamic Azad University, Tehran, Iran
+        time: 2014 - 2018
+        details:
 
 experiences:
     title: Work Experience
@@ -196,7 +183,7 @@ oss:
     contributions:
       - title:
         link: "#"
-        tagline: "Acquired the Certificate of the Elementary Course of Participating in ACM Regional Competition and the Certificate of Web Design."
+        tagline: "Acquired the Certificate of the Elementary Course of Participating in ACM Regional  Competition and the Certificate of Web Design."
 
       - title:
         link: "#"
