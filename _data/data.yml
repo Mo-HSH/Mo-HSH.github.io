@@ -74,7 +74,7 @@ education:
         university: University of Science and Culture, Tehran, Iran
         time: 2019 - 2023
         details: |
-            - Thesis: Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN.
+            - Thesis Title: Denoising Low-Dose CT Images using EfficientNetV2 and Wasserstein GAN with Gradient Penalty.
       - degree: B.Sc. in Software Engineering
         university: Islamic Azad University, Tehran, Iran
         time: 2014 - 2018
@@ -120,9 +120,8 @@ certifications:
           credentialid:
           credentialurl:
           credentialname:
-          details: |
-            Completed Deep Learning Convolutional Neural Networks in Python and other courses related to TensorFlow 2, CNNs, and NLP.
-        
+          details:
+
         - name: "Generative Adversarial Networks (GANs): Complete Guide"
           start: 2023
           end: 2024
@@ -130,35 +129,23 @@ certifications:
           credentialid:
           credentialurl:
           credentialname:
-          details: |
-            Completed a comprehensive guide on GANs, showcasing proficiency in Deep Learning and Computer Vision.
+          details:
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+teachings:
+    title: Teaching Experience
+    info:
+      - role: Teaching Assistant, Science and Culture University, Tehran, Iran
+        time: 2023
+        details: |
+            - Teacher assistant of the Undergraduate Artificial Intelligence course. Instructor: Dr. Azadeh Tabatabaei.
+      - role: Borna Institute, Tehran, Iran
+        time: 2022
+        details: |
+            - As a skilled Python Programming Instructor, I hosted a workshop at Borna Institute where I successfully imparted the principles of Python programming language to some students.    
+      - role: Senior Software Developer
+        time: 2018
+        details: |
+            - Taught programming principle and JavaScript to over 20 undergraduate students of Islamic Azad University for one term through classroom lectures and tutoring sessions.
 
 oss:
     title: Award & Honors
@@ -176,24 +163,24 @@ publications:
     title: Publications
     intro:
     papers:
-      - title: (Submitted) Real-time facial emotion recognition in smartphones using EfficientNetV2 and quantization-aware training
+      - title: (Submitted) Omid Ghadami, Saeed Shakuri, Mohammad Hojjat, and Alireza Rezvanian, ”Real- time facial emotion recognition on smartphones using EfficientNetV2 and quantization-aware training”, Neural Computing and Applications, Springer.
         link:
-        authors: Omid Ghadami, Saeed Shakuri, Mohammad Hojjat, and Alireza Rezvanian
-        conference: Neural Computing and Applications, Springer
-
-      - title: (Submitted) Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN
-        link:
-        authors: Mohammad Hojjat, Mohammad Javad Shayegan, and Omid Ghadami
-        conference: 10th International Conference on Web Research (ICWR), IEEE
-
-      - title: (To be Submitted) Enhancing Low-Dose CT Image Quality using EfficientNetV2 and ESRGAN
-        link:
-        authors: Mohammad Hojjat, Mohammad Javad Shayegan
+        authors:
         conference:
 
-      - title: (In preparation) Real-Time Voice Recognition and Action Execution with Raspberry Pi and TensorFlow Lite
+      - title: (Submitted) Mohammad Hojjat, and Mohammad Javad Shayegan, ”Denoising Low-Dose CT Images using EfficientNetV2 and Wasserstein GAN with Gradient Penalty”, IEEE ON Medical Imaging.
         link:
-        authors: Mohammad Hojjat, Vahid Ansari
+        authors:
+        conference:
+
+      - title: (Submitted) Mohammad Hojjat, Mohammad Javad Shayegan, and Omid Ghadami, ”Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN”, 10th International Conference on Web Research (ICWR), IEEE
+        link:
+        authors:
+        conference:
+
+      - title: (In preparation) Mohammad Hojjat, Vahid Ansari ”Real-Time Voice Recognition and Action Execution with Raspberry Pi and TensorFlow Lite”
+        link:
+        authors:
         conference:
 
 skills:
