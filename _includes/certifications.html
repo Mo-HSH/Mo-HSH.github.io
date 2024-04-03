@@ -22,8 +22,7 @@
 
       <div class="second-upper-row">
         <div class="cert-org">
-          {{ certifications.organization }} {% if certifications.credentialid %}
-          ({{ certifications.credentialid }}) {% endif %}
+          {{ certifications.organization }} {% if certifications.credentialid %}{% endif %}
         </div>
         {% if certifications.credentialurl %}
         <div class="cert-url">
