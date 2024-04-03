@@ -114,20 +114,20 @@ certifications:
       title: Certifications
       list:
         - name: "Deep Learning: Convolutional Neural Networks in Python"
-          start: 2023
+          start: 2022
           end: 2024
           organization: Udemy
-          credentialid:
-          credentialurl:
+          credentialid: UC-b72d690d-1bc5-4ae0-ac55-c9ae852167dc
+          credentialurl: https://www.udemy.com/certificate/UC-b72d690d-1bc5-4ae0-ac55-c9ae852167dc/
           credentialname:
           details:
 
         - name: "Generative Adversarial Networks (GANs): Complete Guide"
-          start: 2023
+          start: 2022
           end: 2024
           organization: Udemy
-          credentialid:
-          credentialurl:
+          credentialid: UC-7d2a836b-b704-452f-bc58-e32bbb35ddcf
+          credentialurl: https://www.udemy.com/certificate/UC-7d2a836b-b704-452f-bc58-e32bbb35ddcf/
           credentialname:
           details:
 
@@ -153,7 +153,7 @@ oss:
     contributions:
       - title:
         link: "#"
-        tagline: "Acquired the Certificate of the Elementary Course of Participating in ACM Regional  Competition and the Certificate of Web Design."
+        tagline: "Acquired the Certificate of the Elementary Course of Participating in ACM Regional Competition and the Certificate of Web Design."
 
       - title:
         link: "#"
