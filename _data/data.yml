@@ -119,7 +119,7 @@ certifications:
           organization: Udemy
           credentialid: UC-b72d690d-1bc5-4ae0-ac55-c9ae852167dc
           credentialurl: https://www.udemy.com/certificate/UC-b72d690d-1bc5-4ae0-ac55-c9ae852167dc/
-          credentialname:
+          credentialname: UC-b72d690d-1bc5-4ae0-ac55-c9ae852167dc
           details:
 
         - name: "Generative Adversarial Networks (GANs): Complete Guide"
@@ -128,7 +128,7 @@ certifications:
           organization: Udemy
           credentialid: UC-7d2a836b-b704-452f-bc58-e32bbb35ddcf
           credentialurl: https://www.udemy.com/certificate/UC-7d2a836b-b704-452f-bc58-e32bbb35ddcf/
-          credentialname:
+          credentialname: UC-7d2a836b-b704-452f-bc58-e32bbb35ddcf
           details:
 
 teachings:
