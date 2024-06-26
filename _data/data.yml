@@ -71,7 +71,7 @@ education:
         university: University of Science and Culture, Tehran, Iran
         time: 2019 - 2023
         details: |
-            - Thesis Title: Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN.
+            - Thesis: Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN.
       - degree: B.Sc. in Software Engineering
         university: Islamic Azad University, Tehran, Iran
         time: 2014 - 2018
@@ -179,7 +179,7 @@ publications:
         conference:
 
       - title: Mohammad Hojjat, Mohammad Javad Shayegan, and Omid Ghadami, ”Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN”, 10th International Conference on Web Research (ICWR), IEEE.
-        link: 10.1109/ICWR61162.2024.10533377
+        link: https://ieeexplore.ieee.org/document/10533377
         authors:
         conference:
 
