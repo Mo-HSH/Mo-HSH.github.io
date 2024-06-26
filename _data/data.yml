@@ -48,9 +48,6 @@ sidebar:
         - item: Reinforcement Learning
           link:
 
-        - item: Data analysis
-          link:
-
         - item: Optimization
           link:
 
@@ -74,7 +71,7 @@ education:
         university: University of Science and Culture, Tehran, Iran
         time: 2019 - 2023
         details: |
-            - Thesis Title: Denoising Low-Dose CT Images using EfficientNetV2 and Wasserstein GAN with Gradient Penalty.
+            - Thesis Title: Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN.
       - degree: B.Sc. in Software Engineering
         university: Islamic Azad University, Tehran, Iran
         time: 2014 - 2018
@@ -132,16 +129,28 @@ certifications:
           details:
 
 teachings:
-    title: Teaching Experience
+    title: Teaching & Presentations
     info:
+      - role: Presenter at ICWR
+        time: 2024
+        details: |
+            - I gave an oral presentation on deep learning at 10th International Web Research Conference.
+
+      - role: Workshop Instructor at ICWR
+        time: 2024
+        details: |
+            - During this workshop, I discussed “Exploring the Diversity of Generative Adversarial Networks”
+
       - role: Teaching Assistant, Science and Culture University, Tehran, Iran
         time: 2023
         details: |
             - Teacher assistant of the Undergraduate Artificial Intelligence course. Instructor: Dr. Azadeh Tabatabaei.
+      
       - role: Borna Institute, Tehran, Iran
         time: 2022
         details: |
-            - As a skilled Python Programming Instructor, I hosted a workshop at Borna Institute where I successfully imparted the principles of Python programming language to some students.    
+            - Experienced Python Instructor who taught Python principles at Borna Institute workshop.    
+      
       - role: Senior Software Developer
         time: 2018
         details: |
@@ -155,55 +164,29 @@ oss:
         link: "#"
         tagline: "Acquired the Certificate of the Elementary Course of Participating in ACM Regional Competition and the Certificate of Web Design."
 
-      - title:
-        link: "#"
-        tagline: "Won coding competition for problem solving using Python programming language."
-
 publications:
     title: Publications
     intro:
     papers:
-      - title: (Submitted) Omid Ghadami, Saeed Shakuri, Mohammad Hojjat, and Alireza Rezvanian, ”Real- time facial emotion recognition on smartphones using EfficientNetV2 and quantization-aware training”, Neural Computing and Applications, Springer.
+      - title: (Under review) Omid Ghadami, Saeed Shakuri, Mohammad Hojjat, and Alireza Rezvanian, ”Real-time facial emotion recognition on smartphones using EfficientNetV2 and quantization-aware training”, Real- time image processing, Springer.
         link:
         authors:
         conference:
 
-      - title: (Submitted) Mohammad Hojjat, and Mohammad Javad Shayegan, ”Denoising Low-Dose CT Images using EfficientNetV2 and Wasserstein GAN with Gradient Penalty”, IEEE ON Medical Imaging.
+      - title: (Under review) Mohammad Hojjat, and Mohammad Javad Shayegan, ”Enhancing Low-Dose CT Images using EfficientNetV2 and WGAN-GP A Multi-Loss Approach for Enhanced Image Quality”, Elsevier ON Academic Radiology.
         link:
         authors:
         conference:
 
-      - title: (Submitted) Mohammad Hojjat, Mohammad Javad Shayegan, and Omid Ghadami, ”Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN”, 10th International Conference on Web Research (ICWR), IEEE
-        link:
+      - title: Mohammad Hojjat, Mohammad Javad Shayegan, and Omid Ghadami, ”Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN”, 10th International Conference on Web Research (ICWR), IEEE.
+        link: 10.1109/ICWR61162.2024.10533377
         authors:
         conference:
 
-      - title: (In preparation) Mohammad Hojjat, Vahid Ansari ”Real-Time Voice Recognition and Action Execution with Raspberry Pi and TensorFlow Lite”
+      - title: (In preparation) Mohammad Hojjat, Sajad Zafari ”Real-time Plant Stress Detection and Water Content Monitoring using Terahertz Frequency and Advanced Machine Learning Approaches for Precision Agriculture”.
         link:
         authors:
         conference:
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     This page is maintained by Mohammad Hojjat Shamami
