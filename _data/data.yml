@@ -31,38 +31,36 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
-
-        - idiom: French
-          level: Elementary proficiency
+          level: IELTS Academic 6.5 (L 7.5 / S 7.0 / R 6.0 / W 6.0)
 
     interests:
-      title: Interests
+      title: Research Interests
       info:
+        - item: Deep Learning
+          link:
+
         - item: Computer Vision
           link:
 
-        - item: Generative models
+        - item: Generative Models (GANs)
           link:
 
         - item: Reinforcement Learning
           link:
 
-        - item: Optimization
+        - item: Medical Imaging AI
           link:
 
-        - item: Programming Languages
+        - item: Natural Language Processing & LLMs
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Machine learning researcher and senior software engineer working at the intersection of deep learning research and production
+      systems. Published first-author research on medical image denoising (Springer, IEEE); 10+ years of full-stack engineering
+      experience delivering production software for companies in Canada and Sweden. Seeking a PhD position applying modern deep
+      learning to medical imaging.
 
 education:
     title: Education
@@ -71,41 +69,38 @@ education:
         university: University of Science and Culture, Tehran, Iran
         time: 2019 - 2023
         details: |
-            - Thesis: Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN.
+            - Thesis: Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN (WGAN-GP) — resulted in one Springer journal paper and one IEEE conference paper.
+            - GPA: 3.4 / 4.0
       - degree: B.Sc. in Software Engineering
         university: Islamic Azad University, Tehran, Iran
         time: 2014 - 2018
-        details:
+        details: |
+            - GPA: 3.6 / 4.0
 
 experiences:
     title: Work Experience
     info:
       - role: Senior Software Developer
         time: Oct 2021 - present
-        company: DivNotes, Ontario, Canada
+        company: ContactMonkey (remote), Ontario, Canada
         details: |
-            - Working as a Full-Stack developer for the ContactMonkey Company, a client of DivNotes.
-            - Developing high-performance applications using Node.js, Ruby on Rails, and Vue.js.
-            - Writing testable, reusable, and efficient code, following good programming practices.
-      - role: Chief Technical Officer
-        time: Nov 2016 - present
+            - Full-stack development for ContactMonkey (internal communications platform) using Ruby on Rails and Vue.js in a distributed North American team.
+            - Contributing to an internal AI content-generation initiative (RAG-based pipeline).
+      - role: Chief Technology Officer
+        time: Nov 2016 - Jul 2026
         company: Tagmond, Tehran, Iran
         details: |
-            - Working as a Chief Technology Officer and programmer and security expert.
-            - Mohammad was responsible for secure code writing, development, testing, troubleshooting, and collaboration with business teams.
-            - Also managed code reviews, utilized Ruby on Rails, and oversaw a large client database.
+            - Part-time advisory role since Oct 2021, mentoring the development team; previously led secure development, code review, and testing for a Ruby on Rails platform with a large client database.
       - role: Senior Software Developer
-        time: July 2019 - Feb 2020
-        company: Ibissoft, Stockholm, Sweden
+        time: Jul 2019 - Feb 2020
+        company: Ibissoft (remote), Stockholm, Sweden
         details: |
-            - Mohammad upgraded an old application, increased test coverage from 30% to 80%.
-            - Resolved security concerns such as SQL injection, XSS vulnerability, file access, CSRF, dynamic rendering, and XSS.
-      - role: Software Developer
+            - Modernized a legacy application: raised test coverage from 30% to 80% and remediated SQL injection, XSS, CSRF, and file-access vulnerabilities.
+      - role: Senior Software Developer
         time: Dec 2018 - Jun 2019
         company: Takhfifan, Tehran, Iran
         details: |
-            - Mohammad successfully migrated a project from Magento to Rails and improved the overall design and server configuration using Docker.
-            - He also performed database administration tasks such as performance monitoring, integrity maintenance, replication implementation, time-series utilization, and user permission management.
+            - Maintained backend services and server configuration for a high-traffic e-commerce site.
 
 certifications:
       title: Certifications
@@ -129,32 +124,27 @@ certifications:
           details:
 
 teachings:
-    title: Teaching & Presentations
+    title: Teaching & Academic Service
     info:
-      - role: Presenter at ICWR
+      - role: Workshop Instructor, ICWR 2024
         time: 2024
         details: |
-            - I gave an oral presentation on deep learning at 10th International Web Research Conference.
+            - "Exploring the Diversity of Generative Adversarial Networks"; also presented thesis work orally at the main conference.
 
-      - role: Workshop Instructor at ICWR
-        time: 2024
-        details: |
-            - During this workshop, I discussed “Exploring the Diversity of Generative Adversarial Networks”
-
-      - role: Teaching Assistant, Science and Culture University, Tehran, Iran
+      - role: Teaching Assistant, Undergraduate Artificial Intelligence course
         time: 2023
         details: |
-            - Teacher assistant of the Undergraduate Artificial Intelligence course. Instructor: Dr. Azadeh Tabatabaei.
-      
-      - role: Borna Institute, Tehran, Iran
+            - University of Science and Culture.
+
+      - role: Python Instructor
         time: 2022
         details: |
-            - Experienced Python Instructor who taught Python principles at Borna Institute workshop.    
-      
-      - role: Islamic Azad University, Tehran, Iran
+            - Borna Institute; taught Python principles workshop.
+
+      - role: JavaScript & Programming Principles Instructor
         time: 2018
         details: |
-            - Taught programming principle and JavaScript to over 20 undergraduate students of Islamic Azad University for one term through classroom lectures and tutoring sessions.
+            - Islamic Azad University; taught 20+ undergraduate students through classroom lectures and tutoring sessions.
 
 oss:
     title: Award & Honors
@@ -168,23 +158,23 @@ publications:
     title: Publications
     intro:
     papers:
-      - title: (Under review) Omid Ghadami, Saeed Shakuri, Mohammad Hojjat, and Alireza Rezvanian, ”Real-time facial emotion recognition on smartphones using EfficientNetV2 and quantization-aware training”, Real- time image processing, Springer.
+      - title: M. H. Shamami, M. J. Shayegan, "A new hybrid model for enhancing low-dose CT images using EfficientNetV2 and WGAN-GP a multi-loss approach," European Journal of Medical Research, Springer, 2025. DOI 10.1186/s40001-025-03579-z (first author)
+        link: https://doi.org/10.1186/s40001-025-03579-z
+        authors:
+        conference:
+
+      - title: (Under review) O. Ghadami, A. Rezvanian, M. H. Shamami, S. Shakuri, "Real-time facial emotion recognition on smartphones using EfficientNetV2 and quantization-aware training," Journal of Systems and Soft Computing, Elsevier.
         link:
         authors:
         conference:
 
-      - title: (Under review) Mohammad Hojjat, and Mohammad Javad Shayegan, ”Enhancing Low-Dose CT Images using EfficientNetV2 and WGAN-GP A Multi-Loss Approach for Enhanced Image Quality”, Elsevier ON Academic Radiology.
-        link:
+      - title: M. H. Shamami, M. J. Shayegan, O. Ghadami, "Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN," 10th Int. Conf. on Web Research (ICWR), IEEE, 2024. DOI 10.1109/ICWR61162.2024.10533377 (first author; oral presentation)
+        link: https://doi.org/10.1109/ICWR61162.2024.10533377
         authors:
         conference:
 
-      - title: Mohammad Hojjat, Mohammad Javad Shayegan, and Omid Ghadami, ”Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN”, 10th International Conference on Web Research (ICWR), IEEE.
-        link: https://ieeexplore.ieee.org/document/10533377
-        authors:
-        conference:
-
-      - title: (In preparation) Mohammad Hojjat, Sajad Zafari ”Real-time Plant Stress Detection and Water Content Monitoring using Terahertz Frequency and Advanced Machine Learning Approaches for Precision Agriculture”.
-        link:
+      - title: M. H. Shamami, M. J. Shayegan, "Speech Command Recognition Using MFCC A Hybrid CNN-LSTM Approach for Keyword Spotting," 12th Int. Conf. on Web Research (ICWR), IEEE, 2026. DOI 10.1109/ICWR69602.2026.11513323 (first author)
+        link: https://doi.org/10.1109/ICWR69602.2026.11513323
         authors:
         conference:
 
