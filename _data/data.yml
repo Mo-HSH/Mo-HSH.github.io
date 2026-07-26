@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: mohammad.shamami21@gmail.com
     academic_email: mohammad.shamami21@stu.usc.ac.ir
-    phone: (+98) 902 487 9391
+    phone: (+98) 912 434 1530
     timezone: Iran/Tehran Timezone
     linkedin: mohammad-hojjat-shamami/
     github: Mo-HSH/
@@ -31,7 +31,7 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: IELTS Academic 6.5 (L 7.5 / S 7.0 / R 6.0 / W 6.0)
+          level: Fluent
 
     interests:
       title: Research Interests
@@ -57,10 +57,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Machine learning researcher and senior software engineer working at the intersection of deep learning research and production
-      systems. Published first-author research on medical image denoising (Springer, IEEE); 10+ years of full-stack engineering
-      experience delivering production software for companies in Canada and Sweden. Seeking a PhD position applying modern deep
-      learning to medical imaging.
+      Machine learning researcher and senior software engineer working at the intersection of deep learning research and production systems. Published first-author research on medical image denoising (Springer, IEEE); 10+ years of full-stack engineering experience delivering production software for companies in Canada and Sweden. Seeking a PhD position applying modern deep learning to medical imaging.
 
 education:
     title: Education
